@@ -1,0 +1,9 @@
+.DS_Store
+*.log
+tmp/
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+*.sqlite-wal
+*.sqlite-shm
