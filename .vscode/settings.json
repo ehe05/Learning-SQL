@@ -1,0 +1,10 @@
+{
+  "sqltools.connections": [
+    {
+      "name": "bigdataenergy-local",
+      "driver": "SQLite",
+      "database": "${workspaceFolder}/BigDataEnergy.db",
+      "previewLimit": 100
+    }
+  ]
+}
